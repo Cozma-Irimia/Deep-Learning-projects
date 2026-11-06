@@ -1,0 +1,12 @@
+https://pandas.pydata.org/docs/user_guide/index.html
+https://scikit-learn.org/stable/modules/preprocessing.html
+(for Central Tendency Analysis)
+
+https://scikit-learn.org/stable/modules/model_evaluation.html
+(for Diabetes Risk Prediction)
+
+https://keras.io/examples/vision/mnist_convnet/
+(for Handwritten Character Recognition)
+
+https://www.tensorflow.org/tutorials/keras/classification
+(for Clothing Image Classification)
