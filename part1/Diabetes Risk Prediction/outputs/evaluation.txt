@@ -1,0 +1,16 @@
+Diabetes risk prediction — held-out evaluation
+baseline_accuracy=0.6494
+accuracy=0.7338
+precision=0.6032
+recall=0.7037
+f1=0.6496
+roc_auc=0.8126
+
+              precision    recall  f1-score   support
+
+Non-Diabetic      0.824     0.750     0.785       100
+    Diabetic      0.603     0.704     0.650        54
+
+    accuracy                          0.734       154
+   macro avg      0.714     0.727     0.717       154
+weighted avg      0.747     0.734     0.738       154

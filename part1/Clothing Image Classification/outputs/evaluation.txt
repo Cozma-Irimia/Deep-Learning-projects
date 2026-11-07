@@ -1,0 +1,9 @@
+Clothing image classification — Fashion-MNIST CNN
+epochs=5
+test_loss=0.277775
+test_accuracy=0.898300
+first_image_predicted=Ankle boot
+first_image_actual=Ankle boot
+single_image_predicted=Pullover
+single_image_actual=Pullover
+single_image_confidence=0.9999

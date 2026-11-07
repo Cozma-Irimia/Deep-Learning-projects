@@ -1,0 +1,18 @@
+Handwritten digit recognition — MNIST convnet
+epochs=5
+test_loss=0.039436
+test_accuracy=0.987200
+
+OpenCV file predictions (index, true, predicted, confidence):
+0,7,7,0.9996
+1,2,2,0.9976
+2,1,1,0.9918
+3,0,0,0.9998
+4,4,4,0.9995
+5,1,1,0.9974
+6,4,4,0.9957
+7,9,9,0.9414
+8,5,5,0.9934
+9,9,9,0.9361
+
+Direct tensor predictions: 7 2 1 0 4 1 4 9 5 9
