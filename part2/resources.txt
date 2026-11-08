@@ -1,0 +1,8 @@
+https://www.tensorflow.org/tutorials/images/classification
+(for Cat vs Dog Classification project)
+
+https://docs.opencv.org/5.0/
+(for Real-Time Face Mask Detection project)
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge
+(for Facial Emotion Recognition project)
