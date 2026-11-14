@@ -1,0 +1,5 @@
+Facial emotion recognition — FER2013
+test_loss=1.2067
+test_accuracy=0.5672
+loss=categorical_crossentropy
+yunet_detections_drawn=6

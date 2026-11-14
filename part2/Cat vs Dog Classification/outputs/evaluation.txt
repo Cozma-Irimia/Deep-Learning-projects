@@ -1,0 +1,10 @@
+Cat vs dog classification
+validation_loss=0.5837
+validation_accuracy=0.6830
+
+cat.2000.jpg: This image most likely belongs to Cat with a 52.18 percent confidence. [Cat 52.2%, Dog 47.8%]
+cat.2001.jpg: This image most likely belongs to Cat with a 72.93 percent confidence. [Cat 72.9%, Dog 27.1%]
+cat.2002.jpg: This image most likely belongs to Dog with a 53.01 percent confidence. [Cat 47.0%, Dog 53.0%]
+dog.2000.jpg: This image most likely belongs to Dog with a 99.99 percent confidence. [Cat 0.0%, Dog 100.0%]
+dog.2001.jpg: This image most likely belongs to Dog with a 69.14 percent confidence. [Cat 30.9%, Dog 69.1%]
+dog.2002.jpg: This image most likely belongs to Dog with a 85.47 percent confidence. [Cat 14.5%, Dog 85.5%]

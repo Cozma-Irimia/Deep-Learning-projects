@@ -1,0 +1,5 @@
+Face mask detection
+validation_loss=0.0436
+validation_accuracy=0.9818
+labels: MASK is green, NO MASK is red
+face detector: OpenCV FaceDetectorYN (YuNet DNN)

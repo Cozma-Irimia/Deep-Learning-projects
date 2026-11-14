@@ -1,0 +1,15 @@
+Traffic sign recognition — GTSRB
+test_loss=0.0352
+test_accuracy=0.9929
+
+predicted Children crossing [other] 100.0%, actual Children crossing
+predicted Speed limit 50 km/h [speed limit] 100.0%, actual Speed limit 50 km/h
+predicted Speed limit 30 km/h [speed limit] 100.0%, actual Speed limit 30 km/h
+predicted Road work [other] 100.0%, actual Road work
+predicted Keep right [turn] 100.0%, actual Keep right
+
+speed limit: accuracy 0.989 on 2556 images
+stop: accuracy 0.994 on 156 images
+yield: accuracy 1.000 on 432 images
+turn: accuracy 0.995 on 1128 images
+other: accuracy 0.994 on 3570 images

@@ -1,0 +1,4 @@
+tensorflow>=2.16
+numpy>=2.0
+matplotlib>=3.8
+opencv-python-headless>=4.10
