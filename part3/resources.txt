@@ -1,0 +1,12 @@
+1. https://www.tensorflow.org/tutorials/images/transfer_learning
+(for Cancer Detection)
+
+2. https://pypi.org/project/SpeechRecognition/
+(for Speech Recognition)
+
+3. https://librosa.org/doc/latest/index.html
+4. https://zenodo.org/records/1188976
+(for Emotion-Aware Speech Recognition)
+
+5.https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+(for Pneumonia Detection)
