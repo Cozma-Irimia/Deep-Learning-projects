@@ -1,0 +1,21 @@
+Cancer detection — BUSI breast ultrasound, MobileNetV2 transfer learning
+This is a teaching model, not a medical diagnosis.
+test_loss=0.9263
+test_accuracy=0.6102
+
+actual benign     No cancer detected: benign (67.4% confidence)
+actual benign     No cancer detected: benign (98.4% confidence)
+actual malignant  Cancer detected: malignant (60.0% confidence)
+actual malignant  Cancer detected: malignant (70.8% confidence)
+actual normal     Cancer detected: malignant (55.6% confidence)
+actual normal     No cancer detected: benign (67.1% confidence)
+
+confusion matrix rows=actual, columns=predicted benign, malignant, normal
+[[57  9  0]
+ [17 15  0]
+ [10 10  0]]
+
+OpenCV single-image predictions:
+opencv benign     benign _100_.png: No cancer detected: benign (74.0% confidence)
+opencv malignant  malignant _104_.png: Cancer detected: malignant (62.8% confidence)
+opencv normal     normal _114_.png: Cancer detected: malignant (50.4% confidence)

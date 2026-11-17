@@ -1,0 +1,5 @@
+SpeechRecognition>=3.10
+PyAudio>=0.2.14
+numpy>=2.0
+scipy>=1.11
+matplotlib>=3.8

@@ -1,0 +1,16 @@
+Speech recognition — SpeechRecognition + Google speech-to-text
+
+harvard.wav
+original:
+the stale smell of old beer lingers it takes heat to bring out the odor a cold dip restores health and Zest a salt pickle taste fine with ham tacos Al pastor are my favourite a zestful food is the hot cross bun (95% confidence)
+noise-reduced:
+[1] the stale smell of old beer lingers it takes heat to bring out the odor a cold dip restores health and Zest a salt pickle taste fine with ham tacos (95% confidence)
+[2] store are my favourite a zestful food is the hot cross bun (95% confidence)
+
+jackhammer.wav
+original:
+does still smell like old beer ringers (93% confidence)
+noise-reduced:
+[1] (no speech recognized)
+
+Content words: stale, smell, old, beer, lingers, takes, heat, bring, out, odor, cold, dip, restores, health, zest, salt, pickle, taste, fine, ham, tacos, al, pastor, favourite, zestful, food, hot, cross, bun, does, still, smell, like, old, beer, ringers
