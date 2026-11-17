@@ -1,0 +1,25 @@
+Emotion-aware speech — RAVDESS, librosa MFCC, convolutional classifier
+Test actors 22-24 were not heard during training. Actor 21 is validation only.
+test_accuracy=0.5833
+majority_baseline=0.2222
+
+Most confident correct clip of each emotion:
+actual Neutral  Emotion detected: Neutral (94.2% confidence)
+actual Happy    Emotion detected: Happy (97.3% confidence)
+actual Sad      Emotion detected: Sad (93.7% confidence)
+actual Angry    Emotion detected: Angry (100.0% confidence)
+actual Fear     Emotion detected: Fear (99.1% confidence)
+
+per-class recall on held-out actors:
+Neutral  0.417 (12 clips)
+Happy    0.625 (24 clips)
+Sad      0.458 (24 clips)
+Angry    0.583 (24 clips)
+Fear     0.750 (24 clips)
+
+confusion matrix rows=actual, columns=predicted Neutral, Happy, Sad, Angry, Fear
+[[ 5  0  7  0  0]
+ [ 1 15  1  1  6]
+ [ 6  0 11  5  2]
+ [ 0  3  0 14  7]
+ [ 1  4  1  0 18]]
