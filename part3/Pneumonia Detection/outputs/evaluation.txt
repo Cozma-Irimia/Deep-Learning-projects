@@ -1,0 +1,15 @@
+Pneumonia detection — Kermany chest X-rays, convolutional classifier
+This is a teaching model, not a medical diagnosis.
+test_loss=0.4868
+test_accuracy=0.7644
+pneumonia_precision=0.8833
+pneumonia_recall=0.7179
+
+actual Normal     IM-0001-0001.jpeg: Normal chest X-ray (50.6% confidence)
+actual Normal     IM-0003-0001.jpeg: Pneumonia detected (68.7% confidence)
+actual Pneumonia  person100_bacteria_475.jpeg: Normal chest X-ray (78.7% confidence)
+actual Pneumonia  person100_bacteria_477.jpeg: Pneumonia detected (99.4% confidence)
+
+confusion matrix rows=actual, columns=predicted Normal, Pneumonia
+[[197  37]
+ [110 280]]
